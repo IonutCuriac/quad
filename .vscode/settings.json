@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "Kconfig": "kconfig",
+    "ios": "cpp"
+  },
+  "idf.flashType": "UART",
+  "idf.port": "/dev/cu.usbserial-0001",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ]
+}
