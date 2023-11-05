@@ -1,0 +1,6 @@
+{
+  "idf.flashType": "UART",
+  "idf.portWin": "COM7",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32"
+}
